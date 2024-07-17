@@ -18,3 +18,4 @@
 - react-toastify
 - uuid# Redux_Toolkit_Job_Proje
 # Redux_Toolkit_Job_Proje
+![iştakip](https://github.com/user-attachments/assets/8d9d1dbc-66d2-41a2-9571-f782c8b8c923)
